@@ -76,6 +76,9 @@ arbitrary-precision-calculator/
 ├── README.md # Project documentation
 
 📸 Project Media
+
+
+
 <img width="404" height="285" alt="2" src="https://github.com/user-attachments/assets/4a1e728a-089c-4dcc-af7f-7e993657a8e8" /> <img width="309" height="262" alt="3" src="https://github.com/user-attachments/assets/94539836-a8ca-4aee-ae63-d0fc9bea6664" />
 
 <img width="349" height="268" alt="4" src="https://github.com/user-attachments/assets/73b7eac7-f9d3-47b5-9f6d-7a0c4becec49" /> <img width="348" height="261" alt="5" src="https://github.com/user-attachments/assets/a06e1978-3db5-4c93-a09c-82c1690a37d6" />
